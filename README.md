@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Sup, just trying somethign new
+
+this is pretty cool
